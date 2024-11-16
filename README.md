@@ -4,7 +4,7 @@
 - Project Overview
 - Data Sources
 - Recommendations
-- 
+
 # Project Overview
 This project analyzes the sales performance of Northwind Traders, focusing on insights derived from sales data using SQL and Power BI. The analysis is designed to uncover key trends, highlight top-performing areas, and provide actionable insights for business decisions.
 - [Download the Northwind Traders Sales Analysis](./Northwind%20Traders.pdf)
