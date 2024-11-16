@@ -47,4 +47,16 @@ Monthly trends highlight key sales months.
 
 # Tools and Techniques
 - SQL: For querying and cleaning the data.
+  
 - Power BI: For visualizing insights like top-selling products, sales by regions, and customer analysis.
+# Data Sources
+https://mavenanalytics.io/data-playground
+or 
+- Get Data
+# Recommendations
+Present actionable takeaways based on your findings:
+
+- Focus marketing on top customers (Horst Kloss, Jose Pavarotti).
+- Invest in high-performing product categories (Confections, Seafood).
+- Expand sales efforts in profitable regions (e.g., USA, Germany).
+
