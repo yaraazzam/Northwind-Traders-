@@ -10,10 +10,33 @@ This project analyzes the sales performance of Northwind Traders, focusing on in
 - [Download the Northwind Traders Sales Analysis](./Northwind%20Traders.pdf)
 - [Download the Northwind Traders Sales Analysis](./NorthwindTraders%20second.pdf)
 
+### Data Sources
+https://mavenanalytics.io/data-playground
+### Tools and Techniques
+- SQL: For querying and cleaning the data.
+[Download the Northwind Traders Sales Analysis](./QUERING_final.pdf)
+ 
+- Power BI: For visualizing insights like top-selling products, sales by regions, and customer analysis.
+###Data Cleaning/Preparation
+In the initial data preparation phase, we performed the following tasks:
 
-- Key Highlights
+Data loading and inspection.
+Handling missing values.
+Data cleaning and formatting.
+### Exploratory Data Analysis
+EDA involved exploring the sales data to answer key questions, such as:
+- What TOTAL SALES BY COUNTRY & CITY ?
+- What TOP 5 CUSTOMERS ?
+- What TOTAL AMOUNT SPENT BY EACH CUSTOMER ?
+### Data Analysis
+Include some interesting code/features worked with
+```sql
+SELECT 
+	COUNT(*) AS TotalOrders
+FROM orders;
+```
+### Results/Findings
 Total Revenue & Orders:
-
 - Revenue: $1.35M
 - Number of Orders: 830
 - Best Performers:
@@ -49,13 +72,8 @@ Sales Trends:
 Seasonal peaks identified, aiding in resource allocation and marketing efforts.
 Monthly trends highlight key sales months.
 
-# Tools and Techniques
-- SQL: For querying and cleaning the data.
-[Download the Northwind Traders Sales Analysis](./QUERING_final.pdf)
- 
-- Power BI: For visualizing insights like top-selling products, sales by regions, and customer analysis.
-# Data Sources
-https://mavenanalytics.io/data-playground
+
+
 
 # Recommendations
 Present actionable takeaways based on your findings:
