@@ -56,8 +56,7 @@ Monthly trends highlight key sales months.
 - Power BI: For visualizing insights like top-selling products, sales by regions, and customer analysis.
 # Data Sources
 https://mavenanalytics.io/data-playground
-or 
-- Get Data
+
 # Recommendations
 Present actionable takeaways based on your findings:
 
