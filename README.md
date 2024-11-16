@@ -10,13 +10,25 @@ This project analyzes the sales performance of Northwind Traders, focusing on in
 - [Download the Northwind Traders Sales Analysis](./Northwind%20Traders.pdf)
 - [Download the Northwind Traders Sales Analysis](./NorthwindTraders%20second.pdf)
 
+## Installation and Setup
+1. Clone the repository:  
+`git clone https://github.com/yaraazzam/Northwind-Traders-/`
+
+2. Set up the required tools:
+- Install SQL Server or your preferred SQL environment.
+- Install Power BI Desktop.
+
+3. Load the database and connect Power BI to perform analysis.
+
 ### Data Sources
 https://mavenanalytics.io/data-playground
+
 ### Tools and Techniques
 - SQL: For querying and cleaning the data.
 [Download the Northwind Traders Sales Analysis](./QUERING_final.pdf)
  
 - Power BI: For visualizing insights like top-selling products, sales by regions, and customer analysis.
+  
 ###Data Cleaning/Preparation
 In the initial data preparation phase, we performed the following tasks:
 
@@ -35,6 +47,15 @@ SELECT
 	COUNT(*) AS TotalOrders
 FROM orders;
 ```
+## SQL Queries Example
+Example query to fetch sales data:
+```sql
+SELECT ProductName, SUM(Quantity) as TotalSales
+FROM Orders
+GROUP BY ProductName
+ORDER BY TotalSales DESC;
+```
+
 ### Results/Findings
 Total Revenue & Orders:
 - Revenue: $1.35M
