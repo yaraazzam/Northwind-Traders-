@@ -7,7 +7,9 @@
 - 
 # Project Overview
 This project analyzes the sales performance of Northwind Traders, focusing on insights derived from sales data using SQL and Power BI. The analysis is designed to uncover key trends, highlight top-performing areas, and provide actionable insights for business decisions.
-[Download the Northwind Traders Sales Analysis](.)
+- [Download the Northwind Traders Sales Analysis](./Northwind%20Traders.pdf)
+- [Download the Northwind Traders Sales Analysis](./NorthwindTraders%20second.pdf)
+
 
 - Key Highlights
 Total Revenue & Orders:
@@ -49,7 +51,8 @@ Monthly trends highlight key sales months.
 
 # Tools and Techniques
 - SQL: For querying and cleaning the data.
-  
+[Download the Northwind Traders Sales Analysis](./QUERING_final.pdf)
+ 
 - Power BI: For visualizing insights like top-selling products, sales by regions, and customer analysis.
 # Data Sources
 https://mavenanalytics.io/data-playground
