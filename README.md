@@ -7,8 +7,6 @@
 
 # Project Overview
 This project analyzes the sales performance of Northwind Traders, focusing on insights derived from sales data using SQL and Power BI. The analysis is designed to uncover key trends, highlight top-performing areas, and provide actionable insights for business decisions.
-- [Download the Northwind Traders Sales Analysis](./Northwind%20Traders.pdf)
-- [Download the Northwind Traders Sales Analysis](./NorthwindTraders%20second.pdf)
 
 ## Installation and Setup
 1. Clone the repository:  
@@ -88,10 +86,13 @@ Germany
 Austria
 Sales heatmaps show regional performance, with USA leading in total revenue.
 Sales Trends:
+<img width="921" alt="Screenshot 2024-11-27 214806" src="https://github.com/user-attachments/assets/748ca11f-5a00-464e-8092-cdc017955394">
 
 -Year-over-Year Sales Analysis (2013–2015):
 Seasonal peaks identified, aiding in resource allocation and marketing efforts.
 Monthly trends highlight key sales months.
+<img width="915" alt="Screenshot 2024-11-27 214552" src="https://github.com/user-attachments/assets/99702efd-6fab-4ccf-b1d4-6307c51d4a2b">
+
 
 
 
